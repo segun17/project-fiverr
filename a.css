@@ -1,0 +1,26 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: verdana;
+    font-size: 16px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: lime;
+    gap: 9px;
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+}
+nav ul li{
+    gap: 9px;
+} */
+
+
+
+
